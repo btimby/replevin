@@ -1,0 +1,13 @@
+[dev-packages]
+flake8 = "*"
+pylint = "*"
+
+[packages]
+pathlib = "*"
+Django = "*"
+django-rest-framework = "*"
+celery = "*"
+dj-database-url = "*"
+boto3 = "*"
+django-environ = "*"
+django-extensions = "*"
